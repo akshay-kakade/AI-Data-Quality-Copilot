@@ -130,7 +130,7 @@ PostgreSQL (Neon) Storage
 **DevOps**
 
 * Docker
-* Google Cloud Run
+* Render
 
 ---
 
