@@ -25,18 +25,16 @@ It performs automated checks on uploaded CSV/Excel files and provides:
 
 ## 🖥️ Demo
 
-> Add screenshots / GIFs here
+## Screenshots
 
-```md
-![Login](image.png)
-![Analysis](image-1.png)
-![overview](image-2.png)
-![Summary](image-3.png)
-![Stat](image-4.png)
-![alt text](image-5.png)
-![alt text](image-6.png)
-![alt text](image-7.png)
-````
+![Login](assets/image.png)
+![Analysis](assets/image-1.png)
+![Overview](assets/image-2.png)
+![Summary](assets/image-3.png)
+![Stats](assets/image-4.png)
+![alt text](assets/image-5.png)
+![alt text](assets/image-6.png)
+![alt text](assets/image-7.png)
 
 ---
 
